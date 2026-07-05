@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Tutoriel Interactif d\u0027Ingénierie des Prompts",
+  "description": "Une application interactive et pratique pour maîtriser l\u0027ingénierie des prompts, basée sur le cours d\u0027Anthropic.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
